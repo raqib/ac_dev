@@ -1,0 +1,2 @@
+[01-Mar-2013 11:31:55 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/mohonaho/public_html/accounts/sales/sales_order_entry.php on line 177
+[01-Mar-2013 11:31:59 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/mohonaho/public_html/accounts/sales/sales_order_entry.php on line 177

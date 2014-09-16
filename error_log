@@ -1,0 +1,4 @@
+[19-Feb-2013 00:07:18 America/Chicago] ::language.php:15: include_once(./lang/installed_languages.inc) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory
+[19-Feb-2013 00:07:18 America/Chicago] ::language.php:15: include_once() [<a href='function.include'>function.include</a>]: Failed opening './lang/installed_languages.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
+[19-Feb-2013 00:07:18 America/Chicago] ::session.inc:368: include_once(./faillog.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory
+[19-Feb-2013 00:07:18 America/Chicago] ::session.inc:368: include_once() [<a href='function.include'>function.include</a>]: Failed opening './faillog.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php')
